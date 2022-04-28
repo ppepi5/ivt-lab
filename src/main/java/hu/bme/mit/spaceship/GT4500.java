@@ -84,7 +84,7 @@ public class GT4500 implements SpaceShip {
         }
         break;
     }
-
+    String conflict = "merge conflict";
     return firingSuccess;
   }
 
